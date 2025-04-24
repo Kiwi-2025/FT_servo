@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3  -rdynamic CMakeFiles/SyncWritePos.dir/SyncWritePos.cpp.o  -o SyncWritePos   -L/home/kiwi/FT_servo/FTServo_Linux/examples/SMS_STS/SyncWritePos/../../../src  -Wl,-rpath,/home/kiwi/FT_servo/FTServo_Linux/examples/SMS_STS/SyncWritePos/../../../src -Wl,-Bstatic -lSCServo -Wl,-Bdynamic 

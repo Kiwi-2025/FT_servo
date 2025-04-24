@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3  -rdynamic CMakeFiles/ProgramEprom.dir/ProgramEprom.cpp.o  -o ProgramEprom   -L/home/kiwi/ft_servo_new/examples/SMS_STS/ProgramEprom/../../../src  -Wl,-rpath,/home/kiwi/ft_servo_new/examples/SMS_STS/ProgramEprom/../../../src -Wl,-Bstatic -lSCServo -Wl,-Bdynamic 

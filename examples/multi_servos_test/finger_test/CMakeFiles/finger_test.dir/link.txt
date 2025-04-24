@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3  -rdynamic CMakeFiles/finger_test.dir/finger_test.cpp.o  -o finger_test   -L/home/kiwi/ft_servo_new/examples/multi_servos_test/finger_test/../../../src  -Wl,-rpath,/home/kiwi/ft_servo_new/examples/multi_servos_test/finger_test/../../../src -Wl,-Bstatic -lSCServo -Wl,-Bdynamic 

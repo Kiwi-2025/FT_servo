@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3  -rdynamic CMakeFiles/Ping.dir/Ping.cpp.o  -o Ping   -L/home/kiwi/ft_servo_new/examples/SMS_STS/Ping/../../../src  -Wl,-rpath,/home/kiwi/ft_servo_new/examples/SMS_STS/Ping/../../../src -Wl,-Bstatic -lSCServo -Wl,-Bdynamic 

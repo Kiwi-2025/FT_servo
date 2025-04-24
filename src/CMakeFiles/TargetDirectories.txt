@@ -1,0 +1,3 @@
+/home/kiwi/ft_servo_new/src/CMakeFiles/rebuild_cache.dir
+/home/kiwi/ft_servo_new/src/CMakeFiles/edit_cache.dir
+/home/kiwi/ft_servo_new/src/CMakeFiles/SCServo.dir

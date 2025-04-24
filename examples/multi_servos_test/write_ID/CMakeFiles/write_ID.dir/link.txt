@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3  -rdynamic CMakeFiles/write_ID.dir/write_ID.cpp.o  -o write_ID   -L/home/kiwi/ft_servo_new/examples/multi_servos_test/write_ID/../../../src  -Wl,-rpath,/home/kiwi/ft_servo_new/examples/multi_servos_test/write_ID/../../../src -Wl,-Bstatic -lSCServo -Wl,-Bdynamic 

@@ -1,0 +1,3 @@
+/home/kiwi/ft_servo_new/examples/SMS_STS/SyncRead/CMakeFiles/rebuild_cache.dir
+/home/kiwi/ft_servo_new/examples/SMS_STS/SyncRead/CMakeFiles/edit_cache.dir
+/home/kiwi/ft_servo_new/examples/SMS_STS/SyncRead/CMakeFiles/SyncRead.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3  -rdynamic CMakeFiles/SyncWritePos.dir/SyncWritePos.cpp.o  -o SyncWritePos   -L/home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/../../../src  -Wl,-rpath,/home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/../../../src -Wl,-Bstatic -lSCServo -Wl,-Bdynamic 

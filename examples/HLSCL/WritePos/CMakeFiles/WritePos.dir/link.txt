@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3  -rdynamic CMakeFiles/WritePos.dir/WritePos.cpp.o  -o WritePos   -L/home/kiwi/ft_servo_new/examples/HLSCL/WritePos/../../../src  -Wl,-rpath,/home/kiwi/ft_servo_new/examples/HLSCL/WritePos/../../../src -Wl,-Bstatic -lSCServo -Wl,-Bdynamic 

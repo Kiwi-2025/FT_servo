@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3  -rdynamic CMakeFiles/EPROM_write.dir/EPROM_write.cpp.o  -o EPROM_write   -L/home/kiwi/ft_servo_new/examples/multi_servos_test/EPROM_write/../../../src  -Wl,-rpath,/home/kiwi/ft_servo_new/examples/multi_servos_test/EPROM_write/../../../src -Wl,-Bstatic -lSCServo -Wl,-Bdynamic 
