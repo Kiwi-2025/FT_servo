@@ -1,5 +1,5 @@
 # FTServo_Linux
-FEETECH BUS Servo Linux library
+FEETECH BUS Servo Linux library， add some HLSCL files written by ourselves
 # Static library libSCServo.a
 - cd src
 - cmake .
