@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3  -rdynamic CMakeFiles/SyncRead.dir/SyncRead.cpp.o  -o SyncRead   -L/home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncRead/../../../src  -Wl,-rpath,/home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncRead/../../../src -Wl,-Bstatic -lSCServo -Wl,-Bdynamic 
