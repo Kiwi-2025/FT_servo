@@ -44,10 +44,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos
+CMAKE_SOURCE_DIR = /home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos
+CMAKE_BINARY_DIR = /home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ clean: CMakeFiles/SyncWritePos.dir/clean
 CMakeFiles/SyncWritePos.dir/all:
 	$(MAKE) -f CMakeFiles/SyncWritePos.dir/build.make CMakeFiles/SyncWritePos.dir/depend
 	$(MAKE) -f CMakeFiles/SyncWritePos.dir/build.make CMakeFiles/SyncWritePos.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/CMakeFiles --progress-num=1,2 "Built target SyncWritePos"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos/CMakeFiles --progress-num=1,2 "Built target SyncWritePos"
 .PHONY : CMakeFiles/SyncWritePos.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SyncWritePos.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SyncWritePos.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos/CMakeFiles 0
 .PHONY : CMakeFiles/SyncWritePos.dir/rule
 
 # Convenience name for target.

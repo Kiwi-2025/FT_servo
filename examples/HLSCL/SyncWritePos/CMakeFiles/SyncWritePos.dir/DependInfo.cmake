@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/SyncWritePos.cpp" "/home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/CMakeFiles/SyncWritePos.dir/SyncWritePos.cpp.o"
+  "/home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos/SyncWritePos.cpp" "/home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos/CMakeFiles/SyncWritePos.dir/SyncWritePos.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

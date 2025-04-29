@@ -1,4 +1,4 @@
-# Install script for directory: /home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos
+# Install script for directory: /home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

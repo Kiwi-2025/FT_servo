@@ -60,9 +60,9 @@ SCSerial.h
 SCSerial.h
 ../../../src/SCSerial.h
 
-/home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/SyncWritePos.cpp
+/home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos/SyncWritePos.cpp
 iostream
 -
 SCServo.h
-/home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/SCServo.h
+/home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos/SCServo.h
 

@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=c++11 -O3
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/kiwi/ft_servo_new/examples/HLSCL/SyncWritePos/../../../src 
+CXX_INCLUDES = -I/home/kiwi/FT_servo/FT_servo/examples/HLSCL/SyncWritePos/../../../src 
 
